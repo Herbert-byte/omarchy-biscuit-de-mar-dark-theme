@@ -21,6 +21,23 @@ hl.config({
     },
   },
   decoration = {
-    blur = {},
+    blur = {
+      size = 4,
+      passes = 3,
+    },
   },
 })
+
+hl.layer_rule({
+  match = { namespace = "waybar" },
+  blur  = true,
+})
+
+hl.layer_rule({
+  match = { namespace = "walker" },
+  blur  = true,
+})
+
+hl.animation({ leaf = "workspaces", enabled = true, speed = 6, curve = "easeOutQuint", style = "slide" })
+hl.animation({ leaf = "workspacesIn", enabled = true, speed = 6, curve = "easeOutQuint", style = "slide" })
+hl.animation({ leaf = "workspacesOut", enabled = true, speed = 6, curve = "easeOutQuint", style = "slide" })

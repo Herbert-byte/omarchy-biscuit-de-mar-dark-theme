@@ -27,6 +27,25 @@
 @define-color foreground @color7;
 @define-color background @color0;
 
+@define-color selected-text @color3;
+@define-color text @color4;
+@define-color base @color0;
+@define-color border @color8;
+@define-color foreground @color7;
+@define-color background @color0;
+
+.box-wrapper {
+  border-radius: 16px;
+}
+
+.search-container {
+  border-radius: 12px;
+}
+
+.keybind-hints {
+  border-radius: 12px;
+}
+
 /* ______   __       ______
 * /_____/\ /_/\     /_____/\                                      
 * \:::_ \ \\:\ \    \:::_ \ \                                     
