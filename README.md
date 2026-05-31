@@ -1,8 +1,10 @@
-# Omarchy Biscuit de Mar Dark Theme
+# Omarchy Biscuit de Mar Dark Theme (modded)
 
-Biscuit de Mar dark is a colorscheme by [abb3v](https://github.com/abb3v/abb3v) I have applied it to this Omarchy theme and canonized the color asignments to be as official as possible. [abb3v](https://github.com/abb3v/abb3v) describes the de Mar varient as follows:
+Biscuit de Mar dark is a colorscheme by [abb3v](https://github.com/abb3v/abb3v). OldJobobo applied it to this Omarchy theme and canonized the color asignments to be as official as possible. [abb3v](https://github.com/abb3v/abb3v) describes the de Mar varient as follows:
 
 "Biscuit de Mar - "Biscuit from the Sea" - is what happens when Biscoito ventures too close to the shoreline! Imagine our brave little biscuit getting caught in the gentle waves. As the water washes over him, his colors become softer, more muted, and take on a sandy, coastal quality. The result is a palette with a washed-out, serene character that's perfect for designs requiring a more subtle, relaxed aesthetic."
+
+I (y3ll0what) have changed and added some modifications to this omarchy theme such as (blurring and rounding) to it. I'm planning to add my own mods to it and etc.
 
 ## Preview
 
